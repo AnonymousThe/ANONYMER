@@ -80,7 +80,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92 Anonymer
 \033[1;96mInstagram \033[1;93m: \033[1: selmerjonrasonable6
 \033[1;96mFacebook  \033[1;93m: \033[1: Selmerjon Rasonable
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Anonymer17/PHILLIPINES
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AnonymousThe/ANONYMER
 \033[1;91m======================================="""
 
 def tik():
@@ -121,7 +121,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92Anonymer
 \033[1;96mInstagram \033[1;93m: \033[1;92selmerjonrasonable6
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Selmerjon Rasonable
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Anonymer17/PHILIPPINES
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AnonymousThe/ANONYMER
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
