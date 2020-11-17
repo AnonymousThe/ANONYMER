@@ -78,7 +78,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92 Anonymer
-\033[1;96mInstagram \033[1;93m: \033[1: none
+\033[1;96mYoutube \033[1;93m: \033[1: https://www.youtube.com/channel/UCUGOGteUSrT9rgF7aSHnJYw?view_as=subscriber
 \033[1;96mFacebook  \033[1;93m: \033[1: https://www.facebook.com/hackers.thehacker
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AnonymousThe/ANONYMER
 \033[1;91m======================================="""
@@ -119,7 +119,7 @@ print  """\033[1;91m
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : +639474189507
 \033[1;96mAuthor  \033[1;93m: \033[1;92Anonymer
-\033[1;96mInstagram \033[1;93m: \033[1;92none
+\033[1;96mYoutube \033[1;93m: \033[1;92https://www.youtube.com/channel/UCUGOGteUSrT9rgF7aSHnJYw?view_as=subscriber
 \033[1;96mFacebook  \033[1;93m: \033[1;92m https://www.facebook.com/hackers.thehacker
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AnonymousThe/ANONYMER
 \033[1;91m======================================="""
@@ -138,10 +138,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open https://www.youtube.com/channel/UCUGOGteUSrT9rgF7aSHnJYw?view_as=subscriber ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open  https://www.youtube.com/channel/UCUGOGteUSrT9rgF7aSHnJYw?view_as=subscriber ')
 
 def login():
 	os.system('clear')
